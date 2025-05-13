@@ -1,4 +1,3 @@
-mh-z19
 
 # About the MH-Z19 CO2 sensor
 
@@ -21,7 +20,7 @@ https://www.winsen-sensor.com/d/files/infrared-gas-sensor/mh-z19b-co2-ver1_0.pdf
 
 # 
 
-![Raspberry Pi with mh-z19](assets\images\rpi_mhz19.jpg)
+![Raspberry Pi with mh-z19](assets/images/rpi_mhz19.jpg)
 ![GPIO Pins Overview](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/1/5/9/5/GPIO.png)
 
 ![GPIO Pins Overview](https://www.circuits.dk/wp-content/uploads/2017/06/CO2-sensor-MH-Z19-pinout.jpg)
