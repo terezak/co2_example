@@ -48,9 +48,17 @@ detection on the sensors, and if necessary, perform zero calibration or manual z
 
 # Installation
 
-### python 3.x
-sudo pip3 install mh_z19
+### Python 3.x
+```bash
+$ sudo pip3 install mh_z19
+```
+### Read CO2 Sensor value
+```bash
+$ sudo python3 -m mh_z19
+```
 
-### read CO2 Sensor value
-pi@raspberrypi:~ $ sudo python3 -m mh_z19
-pi@raspberrypi pinout
+### List of pins
+
+```bash
+$ pinout
+```
